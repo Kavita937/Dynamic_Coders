@@ -1,0 +1,58 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Teacher Portal</title>
+    <link rel="stylesheet" href="teacher.css">
+</head>
+<body>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">Teacher Portal</h2>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Personal Details</a></li>
+                    <li><a href="#">Qualifications</a></li>
+                    <li><a href="#">STET Score</a></li>
+                    <li><a href="#">Experience</a></li>
+                    <li><a href="#"> <button class="btn">Logout,ABC</button></a></li>
+
+                </ul>
+            </div>
+
+           
+ 
+
+        </div> 
+        <div class="content">
+            <h1>Welcome Teacher<br><span></span> </h1>
+            <p class="par">Welcome to the all new portal for Teacher Record keeping. <br>
+                With the help of this you can get all your details in digitised fromat.<br>
+                Now you dont have to go to your Accounts department for any details .<br>
+                In this you can do Following things </p>
+                <ul>
+                    <li>Manage your personal profile</li>
+                    <li>Update your details</li>
+                    <li>Request for transfer</li>
+
+                </ul>
+
+                <div class="form">
+                    <h2>Transfer Request</h2>
+                    <input type="Reason" name="Reason" placeholder="Describe your reason">
+                    <input type="Add your preferred station" name="" placeholder="Enter station">
+                    <button class="btnn"><a href="#">submit</a></button>
+
+                    
+
+                </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+   
+</body>
+</html>
